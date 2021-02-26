@@ -1,0 +1,32 @@
+.HomeContainer{
+    position: relative !important;
+    min-height: 100vh;
+}
+.Title{
+    padding: 50px;
+    font-size: 3em;
+    text-align: center;
+}
+.FormDiv{
+    display: flex;
+    justify-content: center; 
+}
+.Form{
+    width: 70% !important;
+}
+.FormControl{
+    height: 120% !important;
+    font-size: 1.5em !important;
+}
+.FormButton{
+    font-size: 1.3em !important;
+}
+.resultDiv{
+    margin-top: 50px;
+    font-size: 2em;
+    text-align: center;
+}
+
+.banglaTitle{
+    font-size: 1.7em;
+}

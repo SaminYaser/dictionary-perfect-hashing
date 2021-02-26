@@ -15,7 +15,7 @@ Run the commands in your shell.
 ## Backend setup
 
 1. `npm install`
-2. `node server.js`
+2. `npm start`
 
 ## Client setup
 
